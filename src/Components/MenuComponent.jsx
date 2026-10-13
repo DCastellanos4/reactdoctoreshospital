@@ -45,7 +45,7 @@ export default class HomeComponent extends Component {
               </NavLink>
             </li>
             <li className="nav-item">
-              <NavLink className="nav-link" to="/doctores/22">
+              <NavLink className="nav-link" to="/doctores/">
                 Doctores
               </NavLink>
             </li>
